@@ -6,7 +6,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 Clonar codigo fuente
-git clone ....
+git clone https://github.com/betovone/tmob.git
 
 Instalar librerias necesarias
 pip install -r requeriments.txt
