@@ -1,0 +1,7 @@
+user.txt
+*.pyc
+*__pycache__*
+*migrations*
+*borrar*
+*.swp
+
